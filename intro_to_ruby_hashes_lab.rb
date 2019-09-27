@@ -26,8 +26,6 @@ def monopoly_with_third_tier
     :names => {}
      }
     }
-  end 
-end
 end
 
 
